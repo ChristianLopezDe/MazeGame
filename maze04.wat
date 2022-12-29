@@ -19,7 +19,7 @@
 ;;Is 0x225, AKA Decimal for 549. In 0x225, It is an empty space. Its coordinates are currently (16, 16)
 (data (offset (i32.const 0x100))
  "\25\02\00\00" ;;Starts with 0x100, initiliaze x pos "\25\02\00\00"
- )
+)
 
 
 (data (offset (i32.const 0x90))
@@ -847,6 +847,3 @@ end
 
 )
 )
-
-
-
